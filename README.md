@@ -15,10 +15,20 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Compiles for test
 ```
-npm run lint
+npm run test
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Project introduction
+
+### Technology stack
+```
+vue vue-router vuex axios scss element-ui
+```
+
+### description
+```
+项目基于 vue/cli 4.5.0 搭建，集成了vur-router，vuex，axios，scss 和 element-ui。
+主要用于pc端项目，基础设置已基本完善，项目下载后，可直接用于业务开发。
+```
