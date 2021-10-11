@@ -10,8 +10,8 @@ const service = axios.create({
 // 添加请求拦截器，在请求头中加token
 service.interceptors.request.use(
   config => {
-    if (localStorage.getItem('token')) {
-      config.headers.token = localStorage.getItem('token')
+    if (sessionStorage.getItem('token')) {
+      config.headers.token = sessionStorage.getItem('token')
     }
     return config
   },

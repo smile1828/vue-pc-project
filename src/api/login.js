@@ -16,3 +16,10 @@ export const signIn = params => {
 export const signOut = params => {
   return getService('/auth/logout', params)
 }
+/**
+ * name 获取用户信息
+ * time 2021-10-09
+ * */
+export const getUserInfo = params => {
+  return getService('/auth/getUserInfo', params)
+}
