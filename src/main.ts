@@ -6,6 +6,8 @@ import store from './store'
 
 import './plugins/element'
 import './assets/scss/main.scss'
+import MIconFont from '@/components/m-iconfont/m-iconfont.vue'
+Vue.component('m-icon-font', MIconFont)
 
 Vue.config.productionTip = false
 
