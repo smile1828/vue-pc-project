@@ -1,0 +1,11 @@
+/* 文本字体 -------------------------- */
+@mixin normal-text {
+  color: $color-text-primary;
+  font-size: $font-size-base;
+  font-weight: normal;
+}
+@mixin secondary-text {
+  color: $color-text-secondary;
+  font-size: $font-size-base;
+  font-weight: normal;
+}

@@ -1,11 +1,30 @@
 /* color
 -------------------------------------------------------------------------------------------------------------------- */
-$color-primary: #1CB19D;
+$color-primary: #409eff;
 $color-success: #67C23A;
 $color-warning: #E6A23C;
 $color-danger: #F56C6C;
 $color-info: #909399;
+$color-inverse: #FFFFFF;
 
 $background-color: #FFFFFF;
+
+/* font
+-------------------------------------------------------------------------------------------------------------------- */
+$font-size-base: 14px;
+$font-size-large: 16px;
+
+$color-text-primary: #303133;
+$color-text-regular: #606266;
+$color-text-secondary: #909399;
+$color-text-placeholder: #C0C4CC;
+
+/* border
+-------------------------------------------------------------------------------------------------------------------- */
+$border-width-base: 1px;
+$border-style-base: solid;
+$border-color-base: #DCDFE6;
+$border-base: $border-width-base $border-style-base $border-color-base;
+$border-primary: $border-width-base $border-style-base $color-primary;
 
 
