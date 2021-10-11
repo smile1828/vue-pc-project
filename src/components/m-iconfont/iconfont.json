@@ -1,0 +1,79 @@
+{
+  "id": "2783162",
+  "name": "receive-handle",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "受理系统",
+  "glyphs": [
+    {
+      "icon_id": "7081780",
+      "name": "眼睛",
+      "font_class": "eye",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "21459321",
+      "name": "闭眼睛",
+      "font_class": "eye-close",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1185423",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1185436",
+      "name": "arrow-left",
+      "font_class": "arrow-left",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1397992",
+      "name": "Down",
+      "font_class": "arrow-down",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1397993",
+      "name": "Up",
+      "font_class": "arrow-up",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "6884483",
+      "name": "向右",
+      "font_class": "right",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "6884484",
+      "name": "向左",
+      "font_class": "left",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "17124326",
+      "name": "向下",
+      "font_class": "down",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "17833705",
+      "name": "向上",
+      "font_class": "up",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    }
+  ]
+}
